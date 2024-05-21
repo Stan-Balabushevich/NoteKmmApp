@@ -38,3 +38,5 @@ kotlinMultiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref =
 kotlinCocoapods = { id = "org.jetbrains.kotlin.native.cocoapods", version.ref = "kotlin" }
 sqldelight = {id = "app.cash.sqldelight", version.ref = "sqldelightVer"}
 hiltAndroidPlugin = {  id = "com.google.dagger.hilt.android", version.ref = "hiltAndroidGradlePlugin" }
+# how to implement kapt?
+#kapt = {id = "org.jetbrains.kotlin.kapt"}
